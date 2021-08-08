@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hey, I'm Amrik! 👋
+
+### I'm a full stack developer based around London.
+I'm currently working at a Big 4 Bank in the UK as a Site Reliability Engineer - so I'm not shy about getting my hands dirty with Ops work too!
+
+When I'm not writing code for work I often like to play with the latest technologies to stay on top of my game, and if not you'll find me gaming 🎮
+
+Feel free to look around my repositories and get to know what I'm currently learning about.
+
+- 🌐 Blog - [amrik.de](amrik.de)
+- 📫 Email - [Amrik.Singh@live.co.uk](amrik.singh@live.co.uk)
 
 <!--
 **AmrikSD/AmrikSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
