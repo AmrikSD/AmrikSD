@@ -7,8 +7,8 @@ When I'm not writing code for work I often like to play with the latest technolo
 
 Feel free to look around my repositories and get to know what I'm currently learning about.
 
-- 🌐 Blog - [amrik.de](www.amrik.de)
-- 📄 CV - [amrik.de/cv](www.amrik.de/cv)
+- 🌐 Blog - [www.amrik.de](amrik.de)
+- 📄 CV - [www.amrik.de/cv](amrik.de/cv)
 - 📫 Email - [Amrik.Singh@live.co.uk](amrik.singh@live.co.uk)
 
 <!--
