@@ -7,9 +7,9 @@ When I'm not writing code for work I often like to play with the latest technolo
 
 Feel free to look around my repositories and get to know what I'm currently learning about.
 
-- 🌐 Blog - [www.amrik.de](amrik.de)
-- 📄 CV - [www.amrik.de/cv](amrik.de/cv)
-- 📫 Email - [Amrik.Singh@live.co.uk](amrik.singh@live.co.uk)
+- 🌐 Blog - [amrik.de](https://amrik.de)
+- 📄 CV - [amrik.de/cv](https://amrik.de/cv)
+- 📫 Email - [Amrik.Singh@live.co.uk](mailto:amrik.singh@live.co.uk)
 
 <!--
 **AmrikSD/AmrikSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
