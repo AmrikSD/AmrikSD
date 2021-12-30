@@ -1,6 +1,6 @@
 ## Hey, I'm Amrik! 👋
 
-### I'm a full stack developer based around London.
+### I'm a full stack developer based in London.
 I'm currently working at a Big 4 Bank in the UK as a Site Reliability Engineer.
 
 When I'm not writing code for work I often like to play with the latest technologies to stay on top of my game, and if not you'll find me gaming 🎮
