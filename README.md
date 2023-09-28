@@ -1,4 +1,4 @@
-## Hey, I'm Amrik! 👋
+##👋 Hey, I'm Amrik!
 
 ### I'm a full stack developer based in London.
 I'm currently working as a software engineer at Starling Bank!
