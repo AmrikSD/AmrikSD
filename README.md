@@ -5,10 +5,11 @@ I'm currently working as a software engineer at Starling Bank!
 
 When I'm not writing code for work I often like to play with the latest technologies to stay on top of my game, and if not you'll find me gaming 🎮
 
-Feel free to look around my repositories and get to know what I'm currently learning about.
+Feel free to look around my repositories and get to know what I'm currently learning about. You may find these in particular interesting
 
 - 🌐 Blog - [amrik.de](https://amrik.de)
-
+- 🫐 Homelab - [/Berries](https://github.com/AmrikSD/Berries)
+- 🎅 Advent Of Code - [/advent-of-code](https://github.com/AmrikSD/advent-of-code)
 <!--
 **AmrikSD/AmrikSD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
