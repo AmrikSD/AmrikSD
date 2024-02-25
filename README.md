@@ -12,7 +12,7 @@ Feel free to look around my repositories and get to know what I'm currently lear
 
 ## Previously
 
-<div style="display:flex; flex-direction:column; align-items:center">
+<div align="center">
     <a href="https://starlingbank.com">
         <img height=25 src="./logos/starling.svg">
     </a>
