@@ -12,18 +12,7 @@ Feel free to look around my repositories and get to know what I'm currently lear
 
 ## Previously
 
-<div align="center">
-    <a href="https://starlingbank.com">
-        <img height=25 src="./logos/starling.svg">
-    </a>
-    <span>Software Engineer</span>
-    <span>Starling Bank</span>
-    <hr />
-    <a href="https://home.barclays">
-        <img height=25 src="./logos/barclays.svg">
-    </a>
-    <span>Site Reliability Engineer</span>
-    <span>Barclays</span>
-</div>
+#### <a href="https://starlingbank.com"><img height=20 src="./logos/starling.svg"></a> <span>Software Engineer</span><br/>
+#### <a href="https://home.barclays"><img height=20 src="./logos/barclays.svg"></a> <span>Site Reliability Engineer</span><br/>
 
 ##### See the full list at [amrik.co.uk/cv](https://amrik.co.uk/cv)
