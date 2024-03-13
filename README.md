@@ -7,7 +7,7 @@ When I'm not writing code for work I often like to play with the latest technolo
 Feel free to look around my repositories and get to know what I'm currently learning about. You may find these in particular interesting
 
 - 🌐 Blog - [amrik.co.uk](https://amrik.co.uk)
-- 🫐 Homelab - [/Berries](https://github.com/AmrikSD/Berries)
+- 🫐 Homelab - [/code/infra](https://github.com/AmrikSD/code/tree/main/infra)
 - 🎅 Advent Of Code - [/advent-of-code](https://github.com/AmrikSD/advent-of-code)
 
 ## Previously
