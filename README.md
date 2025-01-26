@@ -1,6 +1,7 @@
 ## 👋 Hey, I'm Amrik!
 
-I'm currently working as a Software Engineer at <a href="https://chainalysis.com"><img height=20 src="./logos/chainalysis.svg">Chainalysis</a>
+I'm currently working as a Software Engineer at Chainalysis.
+
 When I'm not writing code for work I often like to play with the latest technologies to stay on top of my game, and if not you'll find me gaming 🎮
 
 Feel free to look around my repositories and get to know what I'm currently learning about. You may find these in particular interesting
