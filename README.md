@@ -13,7 +13,7 @@ Feel free to look around my repositories and get to know what I'm currently lear
 ## Previously
 
 <!---#### <a href="https://chainalysis.com"><img height=20 src="./logos/chainalysis.svg"></a> <span>Software Engineer</span><br/>--->
-#### <a href="https://starlingbank.com"><img height=20 src="./logos/starling.svg"></a> <span>Starling Bank - Software Engineer</span><br/>
-#### <a href="https://home.barclays"><img height=20 src="./logos/barclays.svg"></a> <span>Barclays Bank - Site Reliability Engineer</span><br/>
+#### <a href="https://starlingbank.com"><img height=20 src="./logos/starling.svg"></a> <span>Starling Bank - Site Reliability Engineer</span><br/>
+#### <a href="https://home.barclays"><img height=20 src="./logos/barclays.svg"></a> <span>Barclays Bank - Software Engineer</span><br/>
 
 ##### See the full list at [amrik.co.uk/cv](https://amrik.co.uk/cv)
